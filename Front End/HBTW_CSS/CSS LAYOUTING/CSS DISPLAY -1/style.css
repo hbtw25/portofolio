@@ -1,0 +1,9 @@
+h1, ul, li, h2, p{
+    background-color: #8bc34a;
+}
+
+li { display: inline;}
+
+span {
+    color: #fcfff9;
+}
