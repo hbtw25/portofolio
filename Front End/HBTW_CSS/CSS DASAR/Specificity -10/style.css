@@ -1,0 +1,19 @@
+p {
+    color: crimson;
+}
+
+p {
+    color: blueviolet;
+}
+
+#p1 {
+    color: cyan;
+}
+
+ul#sarapan li {
+    color: gray;
+}
+
+ul#sarapan li.favorit {
+    color: crimson;
+}
