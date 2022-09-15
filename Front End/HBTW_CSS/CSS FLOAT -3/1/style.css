@@ -1,0 +1,13 @@
+
+
+  .float-right img {
+    float: left  ;
+    margin-right: 20px;
+  }
+
+  /* clear */
+  .clear-left:after {
+    content: " ";
+    display:table;
+    clear:left;
+  }

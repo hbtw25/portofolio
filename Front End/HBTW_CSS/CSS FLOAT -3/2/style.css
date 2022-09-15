@@ -1,0 +1,28 @@
+.box{
+    width: 80px;
+    height: 80px;
+    background-color: rgb(60, 255, 0);
+    color: black;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    line-height: 80px;
+    margin: 5px;
+}
+
+.box1{
+    width: 80px;
+    height: 80px;
+    background-color: rgb(60, 255, 0);
+    color: black;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    line-height: 80px;
+    margin: 5px;
+    float: left;
+}
+
+h1{
+    text-align: center;
+}
