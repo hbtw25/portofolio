@@ -1,0 +1,74 @@
+/* static */
+div {
+    padding: 50px;
+ }
+ .green {
+    background-color: green;
+    position: static;
+}
+ .red {
+    background-color: red;
+    position: static;
+}
+ .yellow {
+    background-color: yellow;
+    position: static;
+ }
+
+h1{
+    text-align: center;
+}
+/* RELATIVE */
+.green1 {
+    background-color: green;
+    position: static;
+}
+ .red1 {
+    background-color: red;
+    position: static;
+}
+ .yellow1 {
+    background-color: yellow;
+    position: relative;
+    top: 20px;
+ }
+
+ /* ABSOLUTE */
+ .green2 {
+    background-color: green;
+    position: static;
+}
+ .red2 {
+    background-color: red;
+    position: absolute;
+    
+}
+ .yellow2 {
+    background-color: yellow;
+    position: static;
+    /* top: 20px; */
+ }
+
+ /* FIXED */
+
+ .container {
+    height: 1200px;
+    border: 1px solid #000000;
+  }
+  div {
+    padding: 10px;
+  }
+  .green3 {
+    background-color: green;
+    position: static;
+  }
+  .red3 {
+    background-color: red;
+    position: fixed;
+    top: 0px;
+  }
+
+  .yellow3 {
+    background-color: yellow;
+    position: static;
+  }
